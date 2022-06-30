@@ -1,0 +1,20 @@
+.button__main {
+  width: fit-content;
+  padding: .75rem 1rem;
+  border: 1px solid #f1faee;
+  border-top-right-radius: 10px;
+  border-bottom-right-radius: 10px;
+  font-weight: bold;
+  color: #f5f5f5;
+  background-color: #023047;
+  transition: all ease-in .2s;
+  cursor: pointer;
+}
+
+.button__main:hover {
+  background-color: rgba(2, 48, 71, 0.8);
+}
+
+.button__icon {
+  padding-right: .75rem;
+}

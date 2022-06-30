@@ -1,0 +1,11 @@
+.heading__main {
+  color: black;
+}
+
+.heading__main.title {
+  font-size: 3rem;
+}
+
+.heading__main.subtitle {
+  font-size: 1.75rem;
+}

@@ -1,0 +1,25 @@
+.input__container {
+  display: flex;
+  align-items: center;
+  background: #fafafa;
+  width: fit-content;
+  border: 1px solid #0001;
+  transition: all ease 0.3s;
+}
+
+.input__container:hover {
+  box-shadow: -0.25rem 0.25rem 0.5rem #0002;
+}
+
+.input__main {
+  font-size: 1rem;
+  color: black;
+  background: transparent;
+  outline: none;
+  border: none;
+  padding: .75rem 1rem;
+}
+
+.input__main::-webkit-input-placeholder {
+  opacity: 1;
+}

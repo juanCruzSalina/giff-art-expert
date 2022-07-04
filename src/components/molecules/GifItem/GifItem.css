@@ -1,0 +1,14 @@
+.gifItem__container {
+  width: fit-content;
+  height: fit-content;
+  margin: .25rem;
+  padding: .5rem;
+  border: 1px solid #607d8b;
+  border-radius: 15px;
+  background-color: #eceff1;
+}
+
+.gifItem__text {
+  width: 100%;
+  padding: 1rem;
+}

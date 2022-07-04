@@ -1,0 +1,16 @@
+.grid__main {
+  width: 100%;
+  margin: 2rem 0;
+}
+
+.grid__title {
+  display: flex;
+  justify-content: center;
+  padding: 1rem 0;
+}
+
+.grid__item {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}

@@ -10,6 +10,7 @@ const Input = ({ placeholder, onChange }) => {
         placeholder={placeholder}
         onChange={onChange}
         className={'input__main'}
+        name='category'
       />
     </div>
   )

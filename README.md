@@ -1,6 +1,6 @@
 # Welcome to Giff-art
 
-A simple app to search gifs from a specific category. Check the [demo](https://giff-art.netlify.app/)
+A simple app to search gifs from a specific category. Check the [demo](https://giff-art.netlify.app/). 
 The testing was made with [@testing-library](https://testing-library.com/), and the documentation of the components was made with [Storybook](https://storybook.js.org/)
 
 ## Available Scripts
